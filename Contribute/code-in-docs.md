@@ -677,6 +677,7 @@ The [Learn Authoring Pack](how-to-write-docs-auth-pack.md) includes a feature to
 | Inform7                        | `inform7`, `i7`                                                                |
 | IRPF90                         | `irpf90`                                                                       |
 | JSON                           | `json`                                                                         |
+| JSONC                          | `jsonc`                                                                        |
 | Java                           | `java`, `jsp`                                                                  |
 | JavaScript                     | `javascript`, `js`, `jsx`                                                      |
 | Kotlin                         | `kotlin`, `kt`                                                                 |
